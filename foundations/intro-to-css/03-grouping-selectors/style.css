@@ -1,17 +1,17 @@
-.button {
+.black,
+.yellow {
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
     border: 2px solid black;
 }
 
-.button.yellow {
+.black {
     background-color: rgb(255, 255, 0);
     color:black;
 
 }
 
-.button.black {
+.yellow {
     background-color: #000000;
     color: #FFFFFF;
 }
-
